@@ -86,7 +86,13 @@
          transform="scale(0.5)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path135" />
+         id="path135">
+         <animate attributeName="d"  dur="0.6s" repeatCount="indefinite"
+            values="M 5.77,0 -2.88,5 V -5 Z;
+            M 200.77,0 -2.88,5 V -5 Z;
+            M 5.77,0 -2.88,5 V -5 Z;">
+         </animate>
+      </path>
     </marker>
     <linearGradient
        id="swatch1"
@@ -105,6 +111,11 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker5)"
        d="m 40.076395,104.87524 v 55.03998 H 89.78153"
        id="path4" />
+         <animate attributeName="d"  dur="0.6s" repeatCount="indefinite"
+            values="m 40.076395,104.87524 v 55.03998 H 89.78153;
+            m 100.076395,104.87524 v 55.03998 H 89.78153;
+            m 40.076395,104.87524 v 55.03998 H 89.78153;">
+         </animate>
     <text
        xml:space="preserve"
        style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -115,7 +126,14 @@
          id="tspan5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'851MkPOP';-inkscape-font-specification:'851MkPOP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
          x="40.076393"
-         y="166.03078">テキスト</tspan></text>
+         y="166.03078">テキスト
+         <animate attributeName="x"  dur="0.6s" repeatCount="indefinite"
+            values="40.076393;
+            100.076393;
+            40.076393;">
+         </animate>
+         </tspan>
+      </text>
     <rect
        style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect5"
