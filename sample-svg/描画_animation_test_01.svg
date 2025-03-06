@@ -127,10 +127,15 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'851MkPOP';-inkscape-font-specification:'851MkPOP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.265"
          x="40.076393"
          y="166.03078">テキスト
-         <animate attributeName="x"  dur="0.6s" repeatCount="indefinite"
+         <animate attributeName="x"  dur="3s" repeatCount="indefinite"
             values="40.076393;
-            100.076393;
+            80.076393;
             40.076393;">
+         </animate>
+         <animate attributeName="font-size"  dur="3s" repeatCount="indefinite"
+            values="3.88056px;
+            12.88056px;
+            3.88056px;">
          </animate>
          </tspan>
       </text>

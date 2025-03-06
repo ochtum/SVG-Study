@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="描画_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="11.502694"
+     inkscape:cx="199.17074"
+     inkscape:cy="629.1135"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker5)"
+       d="m 40.076395,104.87524 v 55.03998 H 89.78153"
+       id="path4" />
+    <path
+       style="font-size:3.88056px;font-family:'851MkPOP';-inkscape-font-specification:'851MkPOP, Normal';fill:none;stroke:#000000;stroke-width:0.265;paint-order:stroke fill markers"
+       d="m 41.573289,166.23542 -0.08337,-0.072 -0.02653,-0.34106 q 0.0379,-0.30317 0.09853,-0.60255 0.06063,-0.29938 0.132636,-0.59118 h -0.09853 q -0.325906,0.0493 -0.655602,0.12885 -0.329696,0.0796 -0.68213,0.0682 v -0.0606 q 0.754133,-0.15917 1.515844,-0.26906 0.761712,-0.1099 1.538581,-0.14401 v 0.0606 l -1.25436,0.14401 q -0.08337,0.3638 -0.162953,0.72381 -0.07958,0.36002 -0.09095,0.75035 l 0.02274,0.0455 0.341064,0.0152 v 0.0606 q -0.265272,0.13264 -0.594968,0.0834 z m -0.670761,-2.38367 -0.02274,-0.0114 v -0.0606 q 0.500229,-0.0379 0.985299,-0.0985 0.48507,-0.0606 0.996667,-0.0606 v 0.0606 q -0.48507,0.0227 -0.97393,0.0909 -0.48507,0.0682 -0.985298,0.0796 z m 4.054882,2.1525 -0.0379,-0.0227 q -0.08337,-0.24253 -0.121268,-0.5116 -0.03411,-0.26906 -0.06063,-0.53433 h -0.08337 q -0.280431,0.0455 -0.553283,0.1099 -0.272852,0.0606 -0.57981,0.0341 v -0.0606 l 1.182358,-0.20464 0.01137,-0.1099 -0.06063,-0.54949 h -0.08716 l -0.462332,0.072 h -0.48507 v -0.0606 q 0.269062,-0.0114 0.515387,-0.0531 0.250114,-0.0417 0.507807,-0.0682 v -0.0834 l -0.07579,-0.6556 h 0.329696 q 0.0379,0.16674 0.05306,0.34485 0.01895,0.17811 0.03411,0.34486 h 0.09474 l 0.500229,-0.0606 h 0.48507 v 0.0606 q -0.280431,0.0152 -0.541914,0.0455 -0.261483,0.0303 -0.526756,0.0644 v 0.0758 l 0.06063,0.5836 h 0.109898 q 0.253904,-0.0265 0.504018,-0.072 0.250115,-0.0493 0.515387,-0.0379 v 0.0606 q -0.265272,0.0606 -0.553283,0.0909 -0.28422,0.0303 -0.564651,0.0682 v 0.0227 q 0.0379,0.25391 0.072,0.5116 0.0379,0.2539 0.109899,0.48507 l 0.170532,0.0114 v 0.0606 q -0.219797,0.0493 -0.462332,0.0379 z m 1.504475,0.20843 v -0.0606 l 0.121267,-0.10989 0.666972,-0.6935 0.306958,-0.35244 0.121267,-0.13642 0.242535,-0.27664 0.219798,-0.23117 q 0.144005,-0.18569 0.19327,-0.41686 l -0.01137,-0.0455 q -0.136426,-0.0985 -0.318327,-0.0758 -0.38654,0.0493 -0.754132,0.17053 -0.363803,0.12127 -0.77687,0.1099 v -0.0606 q 0.314537,-0.0834 0.636654,-0.16295 0.322117,-0.0796 0.663182,-0.12885 h 0.644233 l 0.219798,0.0872 q 0.06063,0.0947 0.0379,0.21601 l -0.159164,0.2918 -0.121267,0.15917 -0.181902,0.21979 -0.269062,0.2918 -0.08337,0.0985 0.072,0.0455 0.04926,0.0493 0.159164,0.17053 v 0.0265 l 0.132636,0.0947 0.01137,0.0379 q 0.181901,0.13263 0.38654,0.23116 0.208429,0.0985 0.439595,0.1099 v 0.0606 H 48.73565 q -0.219797,-0.0265 -0.409277,-0.11748 -0.185691,-0.091 -0.371382,-0.26148 l -0.242535,-0.20464 -0.06063,-0.0379 -0.473701,0.5116 -0.303169,0.30317 -0.06063,0.072 z m 3.149165,-0.0265 -0.08337,-0.1099 q -0.0379,-0.27664 -0.02653,-0.56844 0.06063,-0.54949 0.121268,-1.0952 0.06063,-0.54949 0.147794,-1.08382 h 0.329696 v 0.12126 q -0.08716,0.5836 -0.159163,1.18236 -0.072,0.59497 -0.109899,1.18994 l 0.0379,0.20843 h 0.02274 l 0.0379,-0.0152 v -0.0227 h 0.325906 l 0.01516,0.0606 q -0.125057,0.12127 -0.303169,0.12506 -0.174322,0.008 -0.356223,0.008 z m 1.667428,-1.08004 q -0.303169,-0.13642 -0.621496,-0.23116 -0.314538,-0.0985 -0.617706,-0.20843 v -0.0606 h 0.352433 q 0.303169,0.1099 0.613917,0.20843 0.310748,0.0947 0.613917,0.23117 v 0.0606 z"
+       id="text5"
+       aria-label="テキスト               " />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5"
+       width="55.170101"
+       height="30.057295"
+       x="73.386642"
+       y="104.87524" />
+  </g>
+</svg>
