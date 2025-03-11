@@ -40,8 +40,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation: strokeAnimation 10s 1 linear 0s, fillAnimation 10s 1 linear 0s;
-      animation-delay: 0s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 0.0s;
     }
     .st-02 {
       stroke: #000;
@@ -50,9 +50,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 0.8s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 0.3s;
     }
     .st-03 {
       stroke: #000;
@@ -61,9 +60,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 1.6s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 0.6s;
     }
     .st-04 {
       stroke: #000;
@@ -72,9 +70,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 2.4s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 0.9s;
     }
     .st-05 {
       stroke: #000;
@@ -83,9 +80,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 3.2s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 1.2s;
     }
     .st-06 {
       stroke: #000;
@@ -94,9 +90,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 4.0s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 1.5s;
     }
     .st-07 {
       stroke: #000;
@@ -105,9 +100,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 4.8s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 1.8s;
     }
     .st-08 {
       stroke: #000;
@@ -116,9 +110,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 5.6s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 2.1s;
     }
     .st-09 {
       stroke: #000;
@@ -127,9 +120,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 6.4s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 2.4s;
     }
     .st-10 {
       stroke: #000;
@@ -138,9 +130,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 7.2s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 2.7s;
     }
     .st-11 {
       stroke: #000;
@@ -149,9 +140,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 8.0s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 3.0s;
     }
     .st-12 {
       stroke: #000;
@@ -160,9 +150,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 8.8s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 3.5s;
     }
     .st-13 {
       stroke: #000;
@@ -171,9 +160,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 9.6s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 3.8s;
     }
     .st-14 {
       stroke: #000;
@@ -182,9 +170,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 10.4s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 4.1s;
     }
     .st-15 {
       stroke: #000;
@@ -193,9 +180,8 @@
       stroke-dasharray: 556.6190795898438;
       stroke-dashoffset: 556.6190795898438;
       fill-opacity: 0.0;
-      animation-fill-mode: forwards;
-      animation: strokeAnimation 10s 1 linear 0s;
-      animation-delay: 11.2s;
+      animation: strokeAnimation 10s 1 linear forwards, fillAnimation 10s 1 linear forwards;
+      animation-delay: 4.4s;
     }
     @keyframes strokeAnimation {
       0% {
