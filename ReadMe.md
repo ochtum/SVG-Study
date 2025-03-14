@@ -9,6 +9,9 @@ https://liginc.co.jp/312143
 https://qiita.com/m_shinada/items/b18f41972120c3caeb69
 https://qiita.com/chitomo12/items/10e251c8ac470dad8541
 
+
+https://developer.mozilla.org/ja/docs/Web/SVG/Attribute/d
+
 ### SVG要素の意味
 
 ※xは縦軸、yは横軸を表す。<br>
