@@ -12,7 +12,9 @@ https://qiita.com/chitomo12/items/10e251c8ac470dad8541
 
 https://developer.mozilla.org/ja/docs/Web/SVG/Attribute/d
 
-### SVG要素の意味
+## SVG要素の意味
+
+### d属性内
 
 ※xは縦軸、yは横軸を表す。<br>
 `m x,y`のように指定する。
@@ -87,3 +89,13 @@ A 6 4 10 1 0 14,10
 現在位置からパスの開始点までの直線描画を指定するコマンド。
 三角形をイメージすると分かりやすい。三つの点を指定したあと、通常なら開始点までの線も引くことになるが、この場合、開始点と終点の接続部が不自然になる可能性がある。
 しかし、ClosePathコマンドを使うことで開始点まで自然な形で繋げることができる。
+
+### filter内
+#### feImage
+指定した画像をresultで出力先を指定する
+
+#### feComposite
+inを受取り、operatorで指定した形で結合します。
+
+#### feDisplacementMap
+inを受取り、scaleで変位の強さを指定できます。
