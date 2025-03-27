@@ -1,15 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-250 -100 500 500" width="1000" height="1000" style="transform:scale(5)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-230 -130 500 500" width="1000" height="1000" style="transform:scale(15)">
   <!-- 定義: フィルター -->
   <defs>
     <filter id="fire">
       <!-- 背景画像を読み込む -->
-      <feImage href="./img/photo-0001.jpg" result="IMAGE"></feImage>
+      <feImage href="./img/photo-0002.jpg" preserveAspect="xMidYMid slice" result="IMAGE"></feImage>
       <!-- ノイズや揺らぎを適用 -->
-    <feTurbulence id="turbulence" in="IMAGE" baseFrequency="0.01" numOctaves="2" result="NOISE"></feTurbulence>
-
-    <feDisplacementMap in="IMAGE" in2="NOISE" scale="30" result="DISPLACE"></feDisplacementMap>
-    <animate href="#turbulence" attributeName="baseFrequency" dur="40s" keyTimes="0;0.5;1" values="0.01 0.02;0.02 0.04;0.01 0.02" repeatCount="indefinite"></animate>
-    <feComposite operator="in" in="DISPLACE" in2="SourceGraphic"></feComposite>
+      <feTurbulence id="turbulence" in="IMAGE" baseFrequency="0.1" numOctaves="10" result="NOISE"></feTurbulence>
+      <feDisplacementMap in="IMAGE" in2="NOISE" scale="20" result="DISPLACE"></feDisplacementMap>
+      <animate href="#turbulence" attributeName="baseFrequency" dur="10s" keyTimes="0;0.5;1" values="0.01 0.02;0.02 0.04;0.01 0.02" repeatCount="indefinite"></animate>
+      <feComposite operator="in" in="DISPLACE" in2="SourceGraphic"></feComposite>
     </filter>
 
     <!-- 定義: クリップパス -->

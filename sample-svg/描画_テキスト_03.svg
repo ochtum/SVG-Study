@@ -241,12 +241,11 @@
    </filter>
 
    <filter id="fire">
-      <feImage href="./img/photo-0001.jpg" width="25" result="IMAGE"></feImage>
-      <feOffset in="IMAGE" dx="-3" dy="-2" result="IMAGE_OFFSET" />
-      <feTurbulence id="turbulence" in="IMAGE_OFFSET" baseFrequency="0.5" numOctaves="2" result="NOISE"></feTurbulence>
+      <feImage href="./img/photo-0002.jpg" result="IMAGE"></feImage>
+      <feTurbulence id="turbulence" in="IMAGE" baseFrequency="0.1" numOctaves="10" result="NOISE"></feTurbulence>
 
-      <feDisplacementMap in="IMAGE_OFFSET" in2="NOISE" scale="5" result="DISPLACE"></feDisplacementMap>
-      <animate href="#turbulence" attributeName="baseFrequency" dur="40s" keyTimes="0;0.5;1" values="0.01 0.02;0.02 0.04;0.01 0.02" repeatCount="indefinite"></animate>
+      <feDisplacementMap in="IMAGE" in2="NOISE" scale="20" result="DISPLACE"></feDisplacementMap>
+      <animate href="#turbulence" attributeName="baseFrequency" dur="10s" keyTimes="0;0.5;1" values="0.01 0.02;0.02 0.04;0.01 0.02" repeatCount="indefinite"></animate>
       <feComposite operator="in" in="DISPLACE" in2="SourceGraphic"></feComposite>
    </filter>
 
@@ -368,5 +367,6 @@
          aria-label="リファルケの文字アニメーション"
          sodipodi:nodetypes="cccccsccccccccccscc" />
    </g>
+   
 
 </svg>
