@@ -1,6 +1,6 @@
 ## This repository was created for learning SVG animation.
 
-### 001_SVG_練習.svg
+### 001_SVG_Practice.svg
 An SVG created using [Inkscape](https://forest.watch.impress.co.jp/library/software/inkscape/) to learn SVG.
 
 ### 002_SVG_Animation_Practice.svg
