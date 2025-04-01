@@ -1,16 +1,22 @@
+## 本レポジトリはSVGアニメーションを学習するために作成したものです。
 
+### 001_SVG_練習.svg
+SVGを学ぶために[Inkscape](https://forest.watch.impress.co.jp/library/software/inkscape/)を使って作成したSVGです。
 
-### 参考ページ
-https://www.ibnet.ne.jp/column/web/201008/
+### 002_SVG_アニメ練習.svg
+アニメーションするために適当な要素を動かしてみたSVGです。
 
-http://inkscapedesign.web.fc2.com/basic/move.html
+### 003_SVG_テキストアニメ練習_01.svg
+[Inkscape](https://forest.watch.impress.co.jp/library/software/inkscape/)を使って作成したテキストSVGに対して、手書き風アニメーションを実装してみました。
 
-https://liginc.co.jp/312143
-https://qiita.com/m_shinada/items/b18f41972120c3caeb69
-https://qiita.com/chitomo12/items/10e251c8ac470dad8541
+### 003_SVG_テキストアニメ練習_02.svg
+手書き風アニメーションにしたSVGの表示が小さかったので、位置やサイズを変更する練習をしたものです。
 
+### 003_SVG_テキストアニメ練習_03.svg
+手書き風アニメーションにCodepenで見つけた[HOT](https://codepen.io/Alina_Niko/pen/jOobaOO)を参考にして、煙と炎のフィルターをかけたものです。参考ソースと違い、SVGだけで実現してみました。
 
-https://developer.mozilla.org/ja/docs/Web/SVG/Attribute/d
+### 004_SVG_画像切り抜き練習.svg
+003_SVG_テキストアニメ練習_03.svgを作るにあたり、SVGで画像切り抜きを試してみたものです。
 
 ## SVG要素の意味
 
@@ -99,3 +105,15 @@ inを受取り、operatorで指定した形で結合します。
 
 #### feDisplacementMap
 inを受取り、scaleで変位の強さを指定できます。
+
+
+## 参考ページ
+https://www.ibnet.ne.jp/column/web/201008/
+
+http://inkscapedesign.web.fc2.com/basic/move.html
+
+https://liginc.co.jp/312143
+https://qiita.com/m_shinada/items/b18f41972120c3caeb69
+https://qiita.com/chitomo12/items/10e251c8ac470dad8541
+
+https://developer.mozilla.org/ja/docs/Web/SVG/Attribute/d
