@@ -14,6 +14,16 @@ SVGを学ぶために[Inkscape](https://forest.watch.impress.co.jp/library/softw
 
 ### 003_SVG_Text_Animation_Practice_03.svg
 手書き風アニメーションにCodepenで見つけた[HOT](https://codepen.io/Alina_Niko/pen/jOobaOO)を参考にして、煙と炎のフィルターをかけたものです。参考ソースと違い、SVGだけで実現してみました。
+<br>
+※複数のパスを手で結合する場合、以下のようにする<br>
+(1)2つめ以降、MoveToパスコマンドのm(相対パス)をM(絶対パス)にして繋げる<br>
+(2)MoveToパスコマンド2つ目以降も続いていた場合(mが省略表記)、そちらもM(絶対パス)判定されるため、最初の座標を加算する<br>
+例）<br>
+m 153.81929,65.224557 0.42719,-0.01378 <br>
+↓<br>
+M 153.81929,65.224557 153.42719,65.223179<br>
+<br>
+<br>
 
 ### 004_SVG_画像切り抜き練習.svg
 003_SVG_Text_Animation_Practice_03.svgを作るにあたり、SVGで画像切り抜きを試してみたものです。
@@ -24,10 +34,10 @@ SVGを学ぶために[Inkscape](https://forest.watch.impress.co.jp/library/softw
 
 ※xは縦軸、yは横軸を表す。<br>
 `m x,y`のように指定する。
-※各コマンドの大文字・小文字の違いは以下の通り
-大文字：絶対座標を表す
-小文字：直前座標からの相対座標を表す
-
+※各コマンドの大文字・小文字の違いは以下の通り<br>
+大文字：絶対座標を表す<br>
+小文字：直前座標からの相対座標を表す<br>
+<br>
 
 #### MoveToパスコマンド
 ##### M/m
